@@ -10,5 +10,5 @@ Click [here](https://irv77.github.io/hd_fnaf/4/) for FNAF 4!<br>
 Click [here](https://irv77.github.io/hd_fnaf/w/) for FNAF World!<br>
 Click [here](https://irv77.github.io/hd_fnaf/sl/) for FNAF Sister Location!<br>
 Click [non] SONIC got shut down :(
-Click [here]([https://irv77.github.io/hd_fnaf/ps/](https://vinmannie.github.io/srb2web/)) for SONIC 3D!<br>
+Click [here]((https://vinmannie.github.io/srb2web/) for SONIC 3D!<br>
  <hr>
