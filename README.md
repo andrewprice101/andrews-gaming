@@ -13,9 +13,10 @@ Click [here](https://vinmannie.github.io/srb2web/) for SONIC 3D!<br>
 Click [here](https://d1tm91r4ytbt54.cloudfront.net/2779cbcb-a02f-48a3-9e2e-95a8d123d165/1685483461665/web/index.html) for SONIC 3D!<br>
 Click [here](https://archive.org/details/arcade_invaders) for space invaders!<br>
 Click [here](https://archive.org/details/arcade_tetris) for Tetris!<br>
-Click [here](https://d1tm91r4ytbt54.cloudfront.net/2779cbcb-a02f-48a3-9e2e-95a8d123d165/1685483461665/web/index.html) for Tetris!<br> 
- 
- 
- 
+Click [here](https://d1tm91r4ytbt54.cloudfront.net/2779cbcb-a02f-48a3-9e2e-95a8d123d165/1685483461665/web/index.html) for minecraft!<br> 
+Click [here](https://ggl22.github.io/impostor-v3/) for fnf vs imposter!<br> 
+Click [here]([https://thedoggybrad.github.io/doom_on_js-dos/](https://www.beepbox.co/)) for DOOM via js-dos!<br> 
+Click [here](https://jummb.us/) for jummbox song maker!<br> 
+Click [here](https://www.beepbox.co/) for Beepbox!<br> 
  
  <hr>
